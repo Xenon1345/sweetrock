@@ -1,0 +1,109 @@
+{
+  "Beverages": {
+    "Coffee": {
+      "Black": {
+        "price": 3,
+        "description": "Classic and rich black coffee, great for any time of day.",
+        "image": "https://media.discordapp.net/attachments/1006932921279590493/1077170608036663296/BlackCoffee4-500x500.png?width=468&height=468"
+      },
+      "Cappuccino": {
+        "price": 4.5,
+        "description": "Espresso mixed with steamed milk and a thick layer of foam on top. One of our best drinks.",
+        "image": "https://media.discordapp.net/attachments/1006932921279590493/1077170608363798558/how-to-make-cappuccinos-766116-hero-01-a754d567739b4ee0b209305138ecb996.png?width=702&height=468"
+      },
+      "Latte": {
+        "price": 4.5,
+        "description": "Much steamed milk mixed with espresso, an excellent drink to start the day.",
+        "image": "https://media.discordapp.net/attachments/1006932921279590493/1077170608963588118/Spanish-latte-milk-and-espresso.png?width=702&height=468"
+      },
+      "Flat White": {
+        "price": 4,
+        "description": "A good balance between espresso and steamed milk. A flavourful mix.",
+        "image": "https://media.discordapp.net/attachments/1006932921279590493/1077170609219457085/Flat-White-Explainer-FT-BLOG1222-40af496f40214d7e8e15dde3f488c0cf.png?width=702&height=468"
+      },
+      "Macchiato": {
+        "price": 5,
+        "description": "An espresso shot with a layer of foam on top, two layers of goodness.",
+        "image": "https://media.discordapp.net/attachments/1006932921279590493/1077170609953439754/nespresso-recipes-Latte-Macchiato.png?width=574&height=468"
+      }
+    },
+    "Bubble Tea": {
+      "Pearl Milk Tea": {
+        "price": 3.5,
+        "description": "Black tea mixed with powdered milk and with tapioca pearls. A classic favourite.",
+        "image": "https://media.discordapp.net/attachments/1006932921279590493/1077177596766330963/Bubble-Milk-Tea-SM-7518-2.png?width=468&height=468"
+      },
+      "Green Pearl Milk Tea": {
+        "price": 3.5,
+        "description": "The green tea version of pearl milk tea, a different flavour to enjoy.",
+        "image": "https://media.discordapp.net/attachments/1006932921279590493/1077177597047353384/Jasmine-Milk-Tea-64.png?width=468&height=468"
+      },
+      "Honey Pearl Milk Tea": {
+        "price": 4,
+        "description": "Sweet honey syrup mixed with the original pearl milk tea, providing a sweeter experience.",
+        "image": "https://media.discordapp.net/attachments/1006932921279590493/1077177597366112256/jasmine-milk-tea-honey-boba.png?width=655&height=468"
+      },
+      "Brown Sugar Pearl Milk Tea": {
+        "price": 4.5,
+        "description": "Milk tea mixed with delicious brown sugar syrup and tapioca pearls. Great for brown sugar lovers.",
+        "image": "https://media.discordapp.net/attachments/1006932921279590493/1077177597928153128/Brown-Sugar-Milk-Tea-Boba-Recipe-Takestwoeggs-Easy-Asian-Inspired-Recipes-sq.png?width=468&height=468"
+      }
+    },
+    "Soft Drinks": {
+      "Coca-Cola": {
+        "price": 1.5,
+        "description": "Regular fizzy Coke drink, gets your throat bubbling.",
+        "image": "https://media.discordapp.net/attachments/1006932921279590493/1077178359286612008/L2_Beverages_291021.png?width=468&height=468"
+      },
+      "Pepsi": {
+        "price": 1.5,
+        "description": "A common competitor to the other well-known fizzy brand.",
+        "image": "https://media.discordapp.net/attachments/1006932921279590493/1077178359538258000/pepsi-03--pepsi-320ml.png?width=468&height=468"
+      },
+      "Fanta": {
+        "price": 1.5,
+        "description": "Coming in several flavours, another enjoyable fizzy drink.",
+        "image": "https://media.discordapp.net/attachments/1006932921279590493/1077178359840260128/51Jjf03tsOL.png?width=468&height=468"
+      }
+    }
+  },
+  "Food": {
+    "Desserts": {
+      "Ice Kachang": {
+        "price": 2,
+        "description": "A favourite amongst Singaporeans, shaved ice with many delicious toppings.",
+        "image": "https://media.discordapp.net/attachments/1006932921279590493/1077179253101170718/ice-kacang.png?width=705&height=468"
+      },
+      "Cendol": {
+        "price": 2,
+        "description": "Cold coconut milk with delectable palm sugar syrup and green jelly. Great as a chilly dessert.",
+        "image": "https://media.discordapp.net/attachments/1006932921279590493/1077179253751304262/7SD4OZMRAULKZD6Q7HO6XSBJVY.png?width=1025&height=461"
+      },
+      "Pandan Cake": {
+        "price": 1.5,
+        "description": "Sponge cake with the flavour of pandan leaves, a soft treat for your mouth.",
+        "image": "https://media.discordapp.net/attachments/1006932921279590493/1077179254602731550/pandan-chiffon-cake.png?width=468&height=468"
+      },
+      "Roti Prata": {
+        "price": 1.5,
+        "description": "Crispy flatbread, goes well with curry, sugar or more. Use your hands!",
+        "image": "https://media.discordapp.net/attachments/1006932921279590493/1077179742177984552/Roti-Canai-6501-2.png?width=468&height=468"
+      },
+      "Roti Tissue": {
+        "price": 3,
+        "description": "Roti prata, but thinner, crispier and larger! Extremely tasty.",
+        "image": "https://media.discordapp.net/attachments/1006932921279590493/1077179255835856926/1414b9c07a7d45f293798254e59f2b5b.png?width=1025&height=447"
+      },
+      "Tau Huay": {
+        "price": 2.5,
+        "description": "Tasty soy beancurd, hot or cold. Comes with delicious you tiao!",
+        "image": "https://media.discordapp.net/attachments/1006932921279590493/1077179256674734130/ecf254a00a004f0abceddd7792b47e31_tauhuaybowl.png?width=702&height=468"
+      },
+      "Ice Cream Sandwich": {
+        "price": 2.5,
+        "description": "Crispy biscuit with ice-cream that melts in your mouth. A variety of flavours to choose.",
+        "image": "https://media.discordapp.net/attachments/1006932921279590493/1077179257077379152/icecreamsandwiches-2048px-0S1A9834.png?width=895&height=468"
+      }
+    }
+  }
+}

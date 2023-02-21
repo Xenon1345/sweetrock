@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_item_1"
+        android:enabled="true"
+        android:icon="@drawable/nav_catalog_icon"
+        android:title="@string/nav_catalog_text"/>
+    <item
+        android:id="@+id/nav_item_2"
+        android:enabled="true"
+        android:icon="@drawable/nav_about_icon"
+        android:title="@string/nav_about_text"/>
+    <item
+        android:id="@+id/nav_item_3"
+        android:enabled="true"
+        android:icon="@drawable/nav_reviews_icon"
+        android:title="@string/nav_reviews_text"/>
+    <item
+        android:id="@+id/nav_item_4"
+        android:enabled="true"
+        android:icon="@drawable/nav_account_icon"
+        android:title="@string/nav_account_text"/>
+
+</menu>

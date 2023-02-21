@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:id="@+id/accountTab"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:id="@+id/accountTabInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:clickable="true"
+        android:background="?android:attr/selectableItemBackground">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/accountTabImageView"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            app:shapeAppearanceOverlay="@style/roundedImageViewCircle" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/accountTabName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/lexend_semibold"
+            android:textAlignment="center"
+            android:textSize="30sp" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/accountTabEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:maxLines="1" />
+
+    </LinearLayout>
+
+
+    <com.google.android.material.button.MaterialButton
+        style="?attr/materialButtonOutlinedStyle"
+        android:id="@+id/accountTabLogoutButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="@string/account_log_out_button"
+        android:textSize="18sp" />
+
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/accountTabSignUpButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/account_sign_up_button"
+        android:layout_gravity="bottom|center"
+        android:textSize="18sp"/>
+
+    <com.google.android.material.button.MaterialButton
+        style="?attr/materialButtonOutlinedStyle"
+        android:id="@+id/accountTabLoginButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/account_sign_in_button"
+        android:layout_gravity="bottom|center"
+        android:textSize="18sp"/>
+</LinearLayout>

@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Sweet Rock</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="fab_text">Sign in</string>
+    <string name="nav_about_text">About</string>
+    <string name="nav_catalog_text">Catalog</string>
+    <string name="nav_reviews_text">Reviews</string>
+    <string name="nav_account_text">Account</string>
+    <string name="catalog_title">Catalog</string>
+    <string name="price_format">$%.2f</string>
+    <string name="about_title">About</string>
+    <string name="about_sweet_rock_title">About Sweet Rock</string>
+    <string name="about_description">
+        Sweet Rock is a local start-up cafe that sells beverages such as coffee, bubble, soft drinks, local desserts and more.
+        The cafe was started in 2023, and has since then gained popularity especially amongst students.
+        \n\nSweet Rock has since created this custom mobile app that customers can download to make orders instead of waiters taking orders at the table.
+        This is in view of not only saving manpower costs but also to eventually be able to expand the company technologically.
+    </string>
+    <string name="about_contact_us_title">Contact Us</string>
+    <string name="about_contact_us">
+        You can contact us by calling +65 8123 4567 or by emailing sweet_rock_4131@gmail.com with any queries.
+    </string>
+    <string name="about_image_content_description">Sweet Rock About Image</string>
+    <string name="reviews_title">Reviews</string>
+    <string name="reviews_button_text">Leave a review</string>
+    <string name="reviews_latest_text">Latest</string>
+    <string name="action_account">Account</string>
+    <string name="account_title">Account</string>
+    <string name="account_log_out_button">Log out</string>
+    <string name="review_edit_text_hint">Share your experience</string>
+    <string name="review_post_button_text">Post</string>
+    <string name="account_signed_in_snackbar_text">Successfully signed in!</string>
+    <string name="account_sign_in_failed_snackbar_text">Sign in failed.</string>
+    <string name="account_logged_out_snackbar_text">Successfully logged out!</string>
+    <string name="review_post_success_text">Successfully posted review! Thank you!</string>
+    <string name="review_post_failure_text">Posting review failed.</string>
+    <string name="account_not_signed_in_title">You are not signed in</string>
+    <string name="account_not_signed_in_caption">Sign in to post reviews and more</string>
+    <string name="reviews_not_signed_in_text">Sign in to leave a review!</string>
+    <string name="account_sign_in_button">Sign In</string>
+    <string name="account_sign_up_button">Sign Up</string>
+    <string name="account_log_out_dialog_title">Log out</string>
+    <string name="account_log_out_dialog_message">Are you sure you want to log out?</string>
+    <string name="account_log_out_positive_button">OK</string>
+    <string name="account_log_out_negative_button">Cancel</string>
+    <string name="key_category_data">categoryData</string>
+    <string name="json_catalog_file">catalog.json</string>
+    <string name="key_name">name</string>
+    <string name="key_image">image</string>
+    <string name="key_price">price</string>
+    <string name="sweet_rock">Sweet Rock</string>
+    <string name="key_description">description</string>
+    <string name="about_email_title">Email</string>
+    <string name="about_email_content"><u>sweet_rock_4131@gmail.com</u>\n<i>We will try our best to respond within 2 business days.</i></string>
+    <string name="about_phone_title">Phone</string>
+    <string name="about_phone_content"><u>+65 8123 4131</u>\n<i>8 am to 6 pm SGT</i>\n<i>Monday to Friday</i></string>
+
+    <string name="textfield_name">Name</string>
+    <string name="textfield_email">Email</string>
+    <string name="textfield_password">Password</string>
+    <string name="error_empty">Required.</string>
+    <string name="error_invalid_email">Invalid email address.</string>
+    <string name="error_password_length">Password must be more than 6 characters.</string>
+    <string name="error_password_letter">Password must have at least 1 letter.</string>
+    <string name="error_password_number">Password must have at least 1 number.</string>
+    <string name="error_password_wrong">Wrong Password.</string>
+    <string name="error_email_wrong">No account exists at the given email address.</string>
+
+    <string name="edit_account_title">Edit Profile</string>
+    <string name="login_title">Log In</string>
+    <string name="sign_up_title">Create Account</string>
+
+    <string name="button_login">Login</string>
+    <string name="button_update">Update</string>
+    <string name="button_sign_up">Create Account</string>
+    <string name="account_signed_up_snackbar_text">Successfully signed up! Welcome to Sweet Rock!</string>
+    <string name="account_sign_up_failed_snackbar_text">Sign up failed.</string>
+    <string name="account_edit_snackbar_text">Successfully edited profile!</string>
+    <string name="account_edit_failed_snackbar_text">Editing profile failed.</string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443842836178",
+    "project_id": "sweeeeetrock",
+    "storage_bucket": "sweeeeetrock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443842836178:android:9999a1c5bb1e02c06c1f0b",
+        "android_client_info": {
+          "package_name": "com.example.sweetrock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443842836178-k8a70cj9q7nf56rq5vsu2aqrkkh9md1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6oxbtnYZmMjSiyXJvOcNWXtp5AxfT7Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443842836178-k8a70cj9q7nf56rq5vsu2aqrkkh9md1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
